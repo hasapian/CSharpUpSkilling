@@ -6,7 +6,12 @@ namespace Exercise1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Enter number: ");
+            var x = Console.ReadLine();            
+            NumberMath y = new NumberMath();
+            //validate it is a number
+            var z = y.GetMyNumber(int.Parse(x));
+            Console.WriteLine("The result is: {0}", z);
         }
     }
 }
