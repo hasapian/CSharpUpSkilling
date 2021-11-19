@@ -6,7 +6,15 @@ namespace Exercise2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World from exercise2!");
+            Console.WriteLine("Enter two integers:");
+            var a = int.Parse(Console.ReadLine());
+            var b = int.Parse(Console.ReadLine());
+            Console.WriteLine("The value of a is: {0}", a);
+            Console.WriteLine("The value of b is: {0}", b);
+            SwapIntegers mySwap = new SwapIntegers();
+            mySwap.SwapMyIntegers(ref a, ref b);
+            Console.WriteLine("The value of a is: {0}", a);
+            Console.WriteLine("The value of b is: {0}", b);
         }
     }
 }
