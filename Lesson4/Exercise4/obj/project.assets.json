@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MyCard/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MyCard.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyCard.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyCard/1.0.0": {
+      "type": "project",
+      "path": "../MyCard/MyCard.csproj",
+      "msbuildProject": "../MyCard/MyCard.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "MyCard >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\s.chasakos\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\code\\Exercises\\Lesson4\\Exercise4\\Exercise4.csproj",
+      "projectName": "Exercise4",
+      "projectPath": "C:\\code\\Exercises\\Lesson4\\Exercise4\\Exercise4.csproj",
+      "packagesPath": "C:\\Users\\s.chasakos\\.nuget\\packages\\",
+      "outputPath": "C:\\code\\Exercises\\Lesson4\\Exercise4\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\s.chasakos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.kaizengaming.eu/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\code\\Exercises\\Lesson4\\MyCard\\MyCard.csproj": {
+              "projectPath": "C:\\code\\Exercises\\Lesson4\\MyCard\\MyCard.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.17, 3.1.17]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

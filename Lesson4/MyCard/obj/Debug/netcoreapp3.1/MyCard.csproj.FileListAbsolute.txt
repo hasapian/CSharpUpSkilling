@@ -1,0 +1,9 @@
+C:\code\Exercises\Lesson4\MyCard\bin\Debug\netcoreapp3.1\MyCard.deps.json
+C:\code\Exercises\Lesson4\MyCard\bin\Debug\netcoreapp3.1\MyCard.dll
+C:\code\Exercises\Lesson4\MyCard\bin\Debug\netcoreapp3.1\MyCard.pdb
+C:\code\Exercises\Lesson4\MyCard\obj\Debug\netcoreapp3.1\MyCard.csproj.AssemblyReference.cache
+C:\code\Exercises\Lesson4\MyCard\obj\Debug\netcoreapp3.1\MyCard.AssemblyInfoInputs.cache
+C:\code\Exercises\Lesson4\MyCard\obj\Debug\netcoreapp3.1\MyCard.AssemblyInfo.cs
+C:\code\Exercises\Lesson4\MyCard\obj\Debug\netcoreapp3.1\MyCard.csproj.CoreCompileInputs.cache
+C:\code\Exercises\Lesson4\MyCard\obj\Debug\netcoreapp3.1\MyCard.dll
+C:\code\Exercises\Lesson4\MyCard\obj\Debug\netcoreapp3.1\MyCard.pdb

@@ -1,0 +1,16 @@
+C:\code\Exercises\Lesson4\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.exe
+C:\code\Exercises\Lesson4\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.deps.json
+C:\code\Exercises\Lesson4\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.runtimeconfig.json
+C:\code\Exercises\Lesson4\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.runtimeconfig.dev.json
+C:\code\Exercises\Lesson4\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.dll
+C:\code\Exercises\Lesson4\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.pdb
+C:\code\Exercises\Lesson4\Exercise4\bin\Debug\netcoreapp3.1\MyCard.dll
+C:\code\Exercises\Lesson4\Exercise4\bin\Debug\netcoreapp3.1\MyCard.pdb
+C:\code\Exercises\Lesson4\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.csproj.AssemblyReference.cache
+C:\code\Exercises\Lesson4\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.AssemblyInfoInputs.cache
+C:\code\Exercises\Lesson4\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.AssemblyInfo.cs
+C:\code\Exercises\Lesson4\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.csproj.CoreCompileInputs.cache
+C:\code\Exercises\Lesson4\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.csproj.CopyComplete
+C:\code\Exercises\Lesson4\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.dll
+C:\code\Exercises\Lesson4\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.pdb
+C:\code\Exercises\Lesson4\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.genruntimeconfig.cache

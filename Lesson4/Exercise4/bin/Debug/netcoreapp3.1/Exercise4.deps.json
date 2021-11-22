@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exercise4/1.0.0": {
+        "dependencies": {
+          "MyCard": "1.0.0"
+        },
+        "runtime": {
+          "Exercise4.dll": {}
+        }
+      },
+      "MyCard/1.0.0": {
+        "runtime": {
+          "MyCard.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercise4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyCard/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
