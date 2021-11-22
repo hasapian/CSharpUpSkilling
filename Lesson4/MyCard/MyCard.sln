@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCard", "MyCard.csproj", "{4267474D-B0FB-4662-8FD6-0A33F3E0A2B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise4", "..\Exercise4\Exercise4.csproj", "{31621452-D8C8-495A-8AB0-5DF67C2E2D6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4267474D-B0FB-4662-8FD6-0A33F3E0A2B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4267474D-B0FB-4662-8FD6-0A33F3E0A2B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4267474D-B0FB-4662-8FD6-0A33F3E0A2B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4267474D-B0FB-4662-8FD6-0A33F3E0A2B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31621452-D8C8-495A-8AB0-5DF67C2E2D6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31621452-D8C8-495A-8AB0-5DF67C2E2D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31621452-D8C8-495A-8AB0-5DF67C2E2D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31621452-D8C8-495A-8AB0-5DF67C2E2D6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AED4167-14CC-4CDC-B4E7-30CE9EFC9131}
+	EndGlobalSection
+EndGlobal

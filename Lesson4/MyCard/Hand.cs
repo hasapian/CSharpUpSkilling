@@ -6,27 +6,27 @@ namespace MyCard
 {
     public class Hand
     {
-        int Count;
+        public int Count;
 
-        void ShortBySuit()
+        public void ShortBySuit()
         { }
 
-        void ShortByNymber()
+        public void ShortByNymber()
         { }
 
-        void Clear()
+        public void Clear()
         { }
 
-        void AddCard(Card myCard)
+        public void AddCard(Card myCard)
         { }
 
-        void RemoveCard(Card myCard)
+        public void RemoveCard(Card myCard)
         { }
 
-        void RemoveCard(int value)
+        public void RemoveCard(int value)
         { }
 
-        int GetBlackJackValue()
+        public int GetBlackJackValue()
         {
             return 0;
         }

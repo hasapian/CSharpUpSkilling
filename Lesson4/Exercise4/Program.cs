@@ -7,10 +7,10 @@ namespace Exercise4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World from Exercise 4!");
+            Console.WriteLine("Hello World from exercise 4!");
             Card x = new Card();
-            Hand y = new Hand();
-            Deck z = new Deck();
+            Deck y = new Deck();
+            Hand z = new Hand();
         }
     }
 }

@@ -4,7 +4,8 @@ namespace MyCard
 {
     public class Card
     {
-        string Suit;
-        int Value;
+        public string Suit;
+        public int Value;
     }
+    
 }

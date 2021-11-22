@@ -6,13 +6,13 @@ namespace MyCard
 {
     public class Deck
     {
-        int CardsLeft;
-        Card[] cards;
+        public int CardsLeft;
+        private Card[] cards;
 
-        void Shuffle()
+        public void Shuffle()
         { }
 
-        Card DealCard()
+        public Card DealCard()
         {
             return new Card();
         }
