@@ -1,2 +1,2 @@
 # CSharpUpSkilling
-Repository to upload lesson's exercises
+Repository to upload lessons' exercises
