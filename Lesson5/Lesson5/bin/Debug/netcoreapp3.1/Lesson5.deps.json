@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lesson5/1.0.0": {
+        "dependencies": {
+          "MyPhoneBook": "1.0.0"
+        },
+        "runtime": {
+          "Lesson5.dll": {}
+        }
+      },
+      "MyPhoneBook/1.0.0": {
+        "runtime": {
+          "MyPhoneBook.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyPhoneBook/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

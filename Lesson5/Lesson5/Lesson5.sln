@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson5", "Lesson5.csproj", "{5788EA21-816C-423A-B108-FE1B73348BAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPhoneBook", "..\MyPhoneBook\MyPhoneBook.csproj", "{F0A763FD-1C7A-4E6B-A1BC-2E22F5F00C01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5788EA21-816C-423A-B108-FE1B73348BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5788EA21-816C-423A-B108-FE1B73348BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5788EA21-816C-423A-B108-FE1B73348BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5788EA21-816C-423A-B108-FE1B73348BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0A763FD-1C7A-4E6B-A1BC-2E22F5F00C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0A763FD-1C7A-4E6B-A1BC-2E22F5F00C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0A763FD-1C7A-4E6B-A1BC-2E22F5F00C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0A763FD-1C7A-4E6B-A1BC-2E22F5F00C01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F38D87D-4321-413A-84CB-6223D03F9CD0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\code\Exercises\Lesson5\MyPhoneBook\bin\Debug\netcoreapp3.1\MyPhoneBook.deps.json
+C:\code\Exercises\Lesson5\MyPhoneBook\bin\Debug\netcoreapp3.1\MyPhoneBook.dll
+C:\code\Exercises\Lesson5\MyPhoneBook\bin\Debug\netcoreapp3.1\MyPhoneBook.pdb
+C:\code\Exercises\Lesson5\MyPhoneBook\obj\Debug\netcoreapp3.1\MyPhoneBook.csproj.AssemblyReference.cache
+C:\code\Exercises\Lesson5\MyPhoneBook\obj\Debug\netcoreapp3.1\MyPhoneBook.AssemblyInfoInputs.cache
+C:\code\Exercises\Lesson5\MyPhoneBook\obj\Debug\netcoreapp3.1\MyPhoneBook.AssemblyInfo.cs
+C:\code\Exercises\Lesson5\MyPhoneBook\obj\Debug\netcoreapp3.1\MyPhoneBook.csproj.CoreCompileInputs.cache
+C:\code\Exercises\Lesson5\MyPhoneBook\obj\Debug\netcoreapp3.1\MyPhoneBook.dll
+C:\code\Exercises\Lesson5\MyPhoneBook\obj\Debug\netcoreapp3.1\MyPhoneBook.pdb

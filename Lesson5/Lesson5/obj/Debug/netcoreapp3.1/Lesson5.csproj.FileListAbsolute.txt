@@ -1,0 +1,16 @@
+C:\code\Exercises\Lesson5\Lesson5\bin\Debug\netcoreapp3.1\Lesson5.exe
+C:\code\Exercises\Lesson5\Lesson5\bin\Debug\netcoreapp3.1\Lesson5.deps.json
+C:\code\Exercises\Lesson5\Lesson5\bin\Debug\netcoreapp3.1\Lesson5.runtimeconfig.json
+C:\code\Exercises\Lesson5\Lesson5\bin\Debug\netcoreapp3.1\Lesson5.runtimeconfig.dev.json
+C:\code\Exercises\Lesson5\Lesson5\bin\Debug\netcoreapp3.1\Lesson5.dll
+C:\code\Exercises\Lesson5\Lesson5\bin\Debug\netcoreapp3.1\Lesson5.pdb
+C:\code\Exercises\Lesson5\Lesson5\bin\Debug\netcoreapp3.1\MyPhoneBook.dll
+C:\code\Exercises\Lesson5\Lesson5\bin\Debug\netcoreapp3.1\MyPhoneBook.pdb
+C:\code\Exercises\Lesson5\Lesson5\obj\Debug\netcoreapp3.1\Lesson5.csproj.AssemblyReference.cache
+C:\code\Exercises\Lesson5\Lesson5\obj\Debug\netcoreapp3.1\Lesson5.AssemblyInfoInputs.cache
+C:\code\Exercises\Lesson5\Lesson5\obj\Debug\netcoreapp3.1\Lesson5.AssemblyInfo.cs
+C:\code\Exercises\Lesson5\Lesson5\obj\Debug\netcoreapp3.1\Lesson5.csproj.CoreCompileInputs.cache
+C:\code\Exercises\Lesson5\Lesson5\obj\Debug\netcoreapp3.1\Lesson5.csproj.CopyComplete
+C:\code\Exercises\Lesson5\Lesson5\obj\Debug\netcoreapp3.1\Lesson5.dll
+C:\code\Exercises\Lesson5\Lesson5\obj\Debug\netcoreapp3.1\Lesson5.pdb
+C:\code\Exercises\Lesson5\Lesson5\obj\Debug\netcoreapp3.1\Lesson5.genruntimeconfig.cache
