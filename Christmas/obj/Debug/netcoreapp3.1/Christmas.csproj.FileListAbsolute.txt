@@ -1,0 +1,13 @@
+C:\code\Exercises\Christmas\bin\Debug\netcoreapp3.1\Christmas.exe
+C:\code\Exercises\Christmas\bin\Debug\netcoreapp3.1\Christmas.deps.json
+C:\code\Exercises\Christmas\bin\Debug\netcoreapp3.1\Christmas.runtimeconfig.json
+C:\code\Exercises\Christmas\bin\Debug\netcoreapp3.1\Christmas.runtimeconfig.dev.json
+C:\code\Exercises\Christmas\bin\Debug\netcoreapp3.1\Christmas.dll
+C:\code\Exercises\Christmas\bin\Debug\netcoreapp3.1\Christmas.pdb
+C:\code\Exercises\Christmas\obj\Debug\netcoreapp3.1\Christmas.csproj.AssemblyReference.cache
+C:\code\Exercises\Christmas\obj\Debug\netcoreapp3.1\Christmas.AssemblyInfoInputs.cache
+C:\code\Exercises\Christmas\obj\Debug\netcoreapp3.1\Christmas.AssemblyInfo.cs
+C:\code\Exercises\Christmas\obj\Debug\netcoreapp3.1\Christmas.csproj.CoreCompileInputs.cache
+C:\code\Exercises\Christmas\obj\Debug\netcoreapp3.1\Christmas.dll
+C:\code\Exercises\Christmas\obj\Debug\netcoreapp3.1\Christmas.pdb
+C:\code\Exercises\Christmas\obj\Debug\netcoreapp3.1\Christmas.genruntimeconfig.cache

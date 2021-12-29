@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/rzWG89X5goSWUKd+gbILBDLXoIieYRVcTKspKSrGfdZru3GsMtwKINqDYg3GMeql8H//TMKnLZrapKwcTF69A==",
+  "success": true,
+  "projectFilePath": "C:\\code\\Exercises\\Christmas\\Christmas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s.chasakos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512"
+  ],
+  "logs": []
+}
